@@ -1,4 +1,4 @@
-<h1 align="center" style="color: aqua;>Saludos👋, Mi nombre es Rodrigo Narvaez Daza</h1>
+<h1 align="center">Saludos👋, Mi nombre es Rodrigo Narvaez Daza</h1>
 <h3 align="center">Me apasiona todo lo que tiene que ver con el mundo de la programación. Tengo conocimientos de lenguajes de programación como Python, Java, JavaScript, HTML y CSS. También manejo el control de versiones con GIT y metodologías ágiles como Scrum. Igualmente tengo facilidad para las relaciones interpersonales y lograr buenos desempeños en el trabajo en equipo.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
